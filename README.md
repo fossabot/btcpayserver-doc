@@ -1,6 +1,7 @@
 # BTCPay Server Documentation
 
 [![Build Status](https://github.com/btcpayserver/btcpayserver-doc/workflows/Build/badge.svg)](https://github.com/btcpayserver/btcpayserver-doc/actions/workflows/build.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fbtcpayserver-doc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fbtcpayserver-doc?ref=badge_shield)
 
 ## Introduction
 
@@ -133,3 +134,7 @@ The BTCPay Server Project is proudly supported by these entities through the [BT
 [![Unbank](https://raw.githubusercontent.com/btcpayserver/btcpayserver/master/BTCPayServer/wwwroot/img/readme/supporter_unbank.svg)](https://unbank.com/)
 
 If you'd like to support the project, please visit the [donation page](https://btcpayserver.org/donate/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fbtcpayserver-doc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fbtcpayserver-doc?ref=badge_large)
